@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="56177" started-at="2018-03-22T10:30:41Z" finished-at="2018-03-22T10:31:37Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="56177" started-at="2018-03-22T10:30:41Z" finished-at="2018-03-22T10:31:37Z">
+      <class name="devops.vdit.testmaven.Maven.MyFirstMavenTest">
+        <test-method status="PASS" signature="SeleniumTutorialTest1()[pri:0, instance:devops.vdit.testmaven.Maven.MyFirstMavenTest@60f82f98]" name="SeleniumTutorialTest1" duration-ms="55571" started-at="2018-03-22T16:00:41Z" finished-at="2018-03-22T16:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTutorialTest1 -->
+      </class> <!-- devops.vdit.testmaven.Maven.MyFirstMavenTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
